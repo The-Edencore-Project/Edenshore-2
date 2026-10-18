@@ -1,1 +1,3 @@
 # Edenshore-2
+
+Edenshore: A digital terrarium....
